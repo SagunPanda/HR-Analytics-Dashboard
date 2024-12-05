@@ -55,7 +55,7 @@ This project involves creating an interactive HR analytics dashboard using Micro
 - Provide drill-through pages for detailed analysis.
 
 ## **Screenshots**
-![HR Analytics Dashboard Screenshot]
+![HR Analytics Dashboard Screenshot](https://github.com/SagunPanda/HR-Analytics-Dashboard/blob/main/ss_hr_analysis%20dashboard.png)
 
 ## **Contributing**
 Contributions are welcome! Please open an issue or pull request for any suggestions.
