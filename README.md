@@ -3,6 +3,9 @@
 **Overview**  
 This project involves creating an interactive HR analytics dashboard using Microsoft Power BI, Excel, and Power Query. It provides key insights into employee attrition, salary trends, and tenure distribution.
 
+## **Screenshots**
+![HR Analytics Dashboard Screenshot](https://github.com/SagunPanda/HR-Analytics-Dashboard/blob/main/ss_hr_analysis%20dashboard.png)
+
 ## **Key Highlights**
 - **Total Employees**: 1,470  
 - **Total Attrition Count**: 237 employees  
@@ -53,9 +56,6 @@ This project involves creating an interactive HR analytics dashboard using Micro
 - Add predictive analytics for attrition.  
 - Enhance visuals to integrate KPIs dynamically.  
 - Provide drill-through pages for detailed analysis.
-
-## **Screenshots**
-![HR Analytics Dashboard Screenshot](https://github.com/SagunPanda/HR-Analytics-Dashboard/blob/main/ss_hr_analysis%20dashboard.png)
 
 ## **Contributing**
 Contributions are welcome! Please open an issue or pull request for any suggestions.
