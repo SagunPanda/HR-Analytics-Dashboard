@@ -55,13 +55,13 @@ This project involves creating an interactive HR analytics dashboard using Micro
 - Provide drill-through pages for detailed analysis.
 
 ## **Screenshots**
-[Add screenshots or links to images here.]
+![HR Analytics Dashboard Screenshot]
 
 ## **Contributing**
 Contributions are welcome! Please open an issue or pull request for any suggestions.
 
 ## **Contact**
-For questions or feedback, contact [Your Email Address] or open an issue in this repository.
+For questions or feedback, contact sagunpanda9439@gmail.com or open an issue in this repository.
 
 ## **License**
 This project is licensed under the MIT License.
